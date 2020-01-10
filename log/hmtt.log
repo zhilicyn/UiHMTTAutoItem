@@ -1074,3 +1074,64 @@
 2020-01-10 17:37:21,504 INFO [root] [base.py (base_find:15] - 正在查找元素:
 2020-01-10 17:37:21,584 INFO [root] [base.py (base_find:15] - 正在查找元素:
 2020-01-10 17:37:22,631 INFO [root] [web_base.py (web_base_element_exists:31] - 页面存在要查找的元素
+2020-01-10 18:24:33,944 INFO [root] [page_mp_login.py (page_mp_login:32] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-10 18:24:33,978 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:33,996 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:24:34,034 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-10 18:24:34,212 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:34,230 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:24:34,274 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-10 18:24:34,414 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-10 18:24:34,414 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:34,507 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:35,057 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-10 18:24:35,057 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:55,521 INFO [root] [page_mp_login.py (page_mp_login_success:39] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-10 18:24:55,521 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:55,542 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:24:55,573 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-10 18:24:55,725 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:55,740 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:24:55,768 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-10 18:24:56,880 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-10 18:24:56,880 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:24:56,961 INFO [root] [page_mp_article.py (page_publish_article:62] - 正在调用自媒体文章发布业务组合方法,文章名:zhili_test001,文章内容:测试发布文章!,频道:数据库
+2020-01-10 18:24:58,962 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-10 18:24:58,962 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:01,038 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-10 18:25:01,038 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:01,150 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:01,694 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:25:01,814 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:zhili_test001
+2020-01-10 18:25:02,224 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:02,264 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:02,276 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:25:02,300 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-10 18:25:02,491 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-10 18:25:02,491 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:02,616 INFO [root] [base.py (base_click:37] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-10 18:25:02,617 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:04,767 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-10 18:25:04,767 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:04,901 INFO [root] [base.py (base_click:37] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-10 18:25:04,901 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:06,991 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:07,038 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-10 18:25:07,038 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:27,513 INFO [root] [page_mis_login.py (page_mis_login:35] - 正在调用后台组合登录业务方法,用户名:testid,密码:testpwd123
+2020-01-10 18:25:27,513 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:27,535 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:25:27,573 INFO [root] [base.py (base_input:32] - 正在给 ('name', 'username') 元素执行输入操作:testid
+2020-01-10 18:25:27,666 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:27,682 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-10 18:25:27,709 INFO [root] [base.py (base_input:32] - 正在给 ('name', 'password') 元素执行输入操作:testpwd123
+2020-01-10 18:25:27,803 INFO [root] [base.py (base_click:37] - 正在对('css selector', '#inp1')元素执行点击操作
+2020-01-10 18:25:27,803 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:29,869 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:29,908 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', '.user_info>span')元素的文本内容:欢迎 管理员
+2020-01-10 18:25:29,909 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:32,181 INFO [root] [page_mis_login.py (page_mis_login_success:42] - 正在调用后台组合登录业务成功方法,用户名:testid,密码:testpwd123
+2020-01-10 18:25:32,196 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-10 18:25:33,227 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:663] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04205BD0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d9fd6daa130b6af903fcc4997b67e281/element
+2020-01-10 18:25:34,257 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:663] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03F648D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d9fd6daa130b6af903fcc4997b67e281/element
+2020-01-10 18:25:35,288 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:663] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03F64970>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d9fd6daa130b6af903fcc4997b67e281/element

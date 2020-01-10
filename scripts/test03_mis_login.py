@@ -18,7 +18,7 @@ class TestMisLogin:
     # 结束
     def teardown_class(self):
         # 关闭driver
-        self.driver.quit()
+        GetDriver.quit_driver()
 
     # 登录测试方法
     @pytest.mark.parametrize("username,password,expect",read_yaml("mis_login.yaml"))

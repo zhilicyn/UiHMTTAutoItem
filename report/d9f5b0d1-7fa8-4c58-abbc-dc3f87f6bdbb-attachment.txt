@@ -1,0 +1,9 @@
+page_mp_login.py            39 INFO     正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+base.py                     15 INFO     正在查找元素:
+base.py                     29 INFO     正在执行清空操作
+base.py                     32 INFO     正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+base.py                     15 INFO     正在查找元素:
+base.py                     29 INFO     正在执行清空操作
+base.py                     32 INFO     正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+base.py                     37 INFO     正在对('css selector', '.el-button--primary')元素执行点击操作
+base.py                     15 INFO     正在查找元素:
