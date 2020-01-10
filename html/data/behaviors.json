@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test01_login.TestLogin.test_mp_login",
+    "uid" : "8540e9b4aa326a77",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578447335433,
+      "stop" : 1578447354498,
+      "duration" : 19065
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

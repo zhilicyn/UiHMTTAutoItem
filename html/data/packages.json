@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test01_login.TestLogin.test_mp_login",
+      "uid" : "8540e9b4aa326a77",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578447335433,
+        "stop" : 1578447354498,
+        "duration" : 19065
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}

@@ -1,0 +1,614 @@
+2020-01-08 11:42:43,482 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 11:42:43,482 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 11:42:43,482 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 11:42:43,539 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,539 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,539 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,554 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:42:43,554 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:42:43,554 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:42:43,586 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 11:42:43,586 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 11:42:43,586 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 11:42:43,750 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,750 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,750 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,766 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:42:43,766 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:42:43,766 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:42:43,795 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 11:42:43,795 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 11:42:43,795 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 11:42:43,900 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 11:42:43,900 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 11:42:43,900 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 11:42:43,900 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,900 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,900 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,977 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,977 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:43,977 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:44,555 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 11:42:44,555 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 11:42:44,555 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 11:42:44,555 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:44,555 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:44,555 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:42:44,581 ERROR [root] [test01_login.py (test01_mp_login:42] - assert '138123456785' == '13812345678'
+  - 138123456785
+  ?            -
+  + 13812345678
+2020-01-08 11:42:44,581 ERROR [root] [test01_login.py (test01_mp_login:42] - assert '138123456785' == '13812345678'
+  - 138123456785
+  ?            -
+  + 13812345678
+2020-01-08 11:42:44,581 ERROR [root] [test01_login.py (test01_mp_login:42] - assert '138123456785' == '13812345678'
+  - 138123456785
+  ?            -
+  + 13812345678
+2020-01-08 11:42:44,582 INFO [root] [base.py (base_get_img:42] - 出现异常!正在执行截图操作!
+2020-01-08 11:42:44,582 INFO [root] [base.py (base_get_img:42] - 出现异常!正在执行截图操作!
+2020-01-08 11:42:44,582 INFO [root] [base.py (base_get_img:42] - 出现异常!正在执行截图操作!
+2020-01-08 11:42:45,266 INFO [root] [base.py (__base_write_image:49] - 出现异常!正在将截图写入报告!
+2020-01-08 11:42:45,266 INFO [root] [base.py (__base_write_image:49] - 出现异常!正在将截图写入报告!
+2020-01-08 11:42:45,266 INFO [root] [base.py (__base_write_image:49] - 出现异常!正在将截图写入报告!
+2020-01-08 11:50:38,910 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 11:50:38,910 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:50:38,941 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:50:38,979 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 11:50:39,175 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:50:39,200 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 11:50:39,242 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 11:50:39,359 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 11:50:39,360 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:50:39,455 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:50:40,072 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 11:50:40,072 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 11:50:40,100 ERROR [root] [test01_login.py (test01_mp_login:42] - assert '138123456785' == '13812345678'
+  - 138123456785
+  ?            -
+  + 13812345678
+2020-01-08 11:50:40,101 INFO [root] [base.py (base_get_img:42] - 出现异常!正在执行截图操作!
+2020-01-08 11:50:40,821 INFO [root] [base.py (__base_write_image:49] - 出现异常!正在将截图写入报告!
+2020-01-08 12:11:14,440 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 12:11:14,441 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:14,470 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 12:11:14,512 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 12:11:14,664 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:14,679 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 12:11:14,710 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 12:11:14,812 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 12:11:14,812 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:14,886 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:15,447 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 12:11:15,447 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:15,474 ERROR [root] [test01_login.py (test01_mp_login:47] - assert '138123456785' == '13812345678'
+  - 138123456785
+  ?            -
+  + 13812345678
+2020-01-08 12:11:15,474 INFO [root] [base.py (base_get_img:42] - 出现异常!正在执行截图操作!
+2020-01-08 12:11:16,111 INFO [root] [base.py (__base_write_image:49] - 出现异常!正在将截图写入报告!
+2020-01-08 12:11:16,198 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 12:11:16,198 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:16,288 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 12:11:16,288 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:16,404 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:16,999 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 12:11:17,033 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test123
+2020-01-08 12:11:17,347 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:17,362 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 12:11:17,388 INFO [root] [base.py (base_input:26] - 正在给 ('tag name', 'p') 元素执行输入操作:lalalla
+2020-01-08 12:11:17,587 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 12:11:17,587 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:17,670 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 12:11:17,670 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:19,802 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li/span[text()='数据库']")元素执行点击操作
+2020-01-08 12:11:19,802 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 12:11:19,927 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 12:11:19,927 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:02,963 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:22:02,964 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:24,626 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:22:24,626 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:48,977 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:22:48,977 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:49,005 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:22:49,038 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:22:49,214 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:49,229 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:22:49,262 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:22:49,367 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:22:49,367 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:49,456 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:50,608 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 13:22:50,608 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:50,631 ERROR [root] [test01_login.py (test01_mp_login:51] - assert '138123456785' == '13812345678'
+  - 138123456785
+  ?            -
+  + 13812345678
+2020-01-08 13:22:50,631 INFO [root] [base.py (base_get_img:42] - 出现异常!正在执行截图操作!
+2020-01-08 13:22:51,310 INFO [root] [base.py (__base_write_image:49] - 出现异常!正在将截图写入报告!
+2020-01-08 13:22:51,404 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:22:51,404 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:51,495 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 13:22:51,495 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:51,617 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:52,176 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:22:52,223 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test123
+2020-01-08 13:22:52,538 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:52,552 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:22:52,577 INFO [root] [base.py (base_input:26] - 正在给 ('tag name', 'p') 元素执行输入操作:lalalla
+2020-01-08 13:22:52,789 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 13:22:52,789 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:52,891 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 13:22:52,891 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:55,012 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li/span[text()='数据库']")元素执行点击操作
+2020-01-08 13:22:55,012 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:22:55,117 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 13:22:55,118 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:23:42,334 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:23:42,334 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:23:42,381 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:23:42,425 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:23:42,608 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:23:42,625 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:23:42,660 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:23:42,766 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:23:42,766 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:23:42,849 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:23:43,439 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 13:23:43,440 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:23:43,471 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:23:43,471 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:30:24,958 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:30:24,958 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:30:25,022 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:30:25,069 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:30:25,278 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:30:25,295 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:30:25,327 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:30:25,460 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:30:25,461 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:30:25,695 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:30:25,695 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:31:24,254 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:31:24,254 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:31:24,280 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:31:24,312 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:31:24,482 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:31:24,496 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:31:24,529 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:31:24,630 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:31:24,630 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:31:24,711 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:31:25,443 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 13:31:25,443 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:31:25,470 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:31:25,471 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:33:49,748 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:33:49,749 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:33:49,769 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:33:49,804 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:33:49,987 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:33:50,005 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:33:50,042 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:33:50,156 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:33:50,156 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:33:50,256 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:33:50,867 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 13:33:50,867 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:33:50,898 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:33:50,898 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:34:38,705 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:34:38,705 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:34:38,738 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:34:38,761 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:34:39,006 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:34:39,028 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:34:39,074 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:34:39,219 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:34:39,219 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:34:39,334 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:34:40,033 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 13:34:40,034 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:34:40,107 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:34:40,107 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:30,193 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 13:36:30,194 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:30,236 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:36:30,278 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 13:36:30,476 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:30,497 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:36:30,528 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 13:36:30,644 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 13:36:30,644 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:30,734 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:34,569 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 13:36:34,569 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:34,615 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 13:36:34,615 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:36,839 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 13:36:36,839 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:36,950 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:37,621 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:36:37,677 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test123
+2020-01-08 13:36:38,002 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:38,017 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 13:36:38,043 INFO [root] [base.py (base_input:26] - 正在给 ('tag name', 'p') 元素执行输入操作:lalalla
+2020-01-08 13:36:38,261 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 13:36:38,261 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:38,370 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 13:36:38,370 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:40,505 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li/span[text()='数据库']")元素执行点击操作
+2020-01-08 13:36:40,505 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:40,631 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 13:36:40,631 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:40,727 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 13:36:41,294 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 13:36:41,294 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:58:26,116 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 14:58:26,116 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:58:26,555 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 14:58:26,556 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:59:10,260 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 14:59:10,260 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:59:10,343 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 14:59:10,401 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 14:59:10,681 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:59:10,713 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 14:59:10,760 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 14:59:10,940 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 14:59:10,940 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:59:11,035 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:59:11,832 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 14:59:11,832 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 14:59:11,859 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 14:59:11,859 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:00:14,587 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 15:00:14,588 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:00:14,616 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:00:14,656 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 15:00:14,825 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:00:14,844 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:00:14,886 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 15:00:15,032 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 15:00:15,032 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:00:15,124 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:00:24,310 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 15:00:24,310 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:00:24,341 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 15:00:24,341 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:01:40,212 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 15:01:40,213 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:01:40,233 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:01:40,266 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 15:01:40,447 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:01:40,466 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:01:40,502 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 15:01:40,618 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 15:01:40,618 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:01:40,705 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:01:41,318 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 15:01:41,318 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:01:41,356 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 15:01:41,356 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:23,256 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 15:31:23,257 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:23,281 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:31:23,320 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 15:31:23,528 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:23,549 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:31:23,579 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 15:31:23,690 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 15:31:23,690 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:23,786 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:27,283 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 15:31:27,283 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:27,311 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 15:31:27,312 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:29,542 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 15:31:29,542 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:29,680 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:34,955 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:31:34,992 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 15:31:35,380 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:35,395 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:31:35,423 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:test001
+2020-01-08 15:31:35,675 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 15:31:35,675 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:35,779 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 15:31:35,779 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:37,921 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 15:31:37,921 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:38,037 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 15:31:38,037 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:38,148 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:31:38,724 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 15:31:38,724 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:18,790 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 15:59:18,791 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:18,814 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:59:18,856 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 15:59:19,019 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:19,042 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:59:19,078 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 15:59:19,203 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 15:59:19,204 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:19,302 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:26,977 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 15:59:26,977 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:27,012 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 15:59:27,012 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:29,302 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 15:59:29,302 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:29,416 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:30,058 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:59:30,107 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 15:59:30,496 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:30,511 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 15:59:30,537 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:test001
+2020-01-08 15:59:30,760 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 15:59:30,760 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:30,894 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 15:59:30,894 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:33,043 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 15:59:33,043 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:33,143 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 15:59:33,143 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:33,251 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 15:59:33,810 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 15:59:33,810 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:11,098 INFO [root] [page_mp_login.py (page_mp_login:33] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 16:05:11,099 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:11,131 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:05:11,172 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 16:05:11,371 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:11,395 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:05:11,433 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 16:05:11,554 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 16:05:11,554 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:11,649 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:14,312 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 16:05:14,312 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:14,350 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 16:05:14,350 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:16,569 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 16:05:16,569 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:16,686 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:17,225 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:05:17,456 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 16:05:17,767 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:17,834 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:17,861 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:05:17,885 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:test001
+2020-01-08 16:05:18,118 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 16:05:18,118 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:18,254 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 16:05:18,254 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:20,390 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 16:05:20,390 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:20,506 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 16:05:20,506 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:20,610 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:05:21,170 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 16:05:21,170 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:54:45,199 INFO [root] [page_mp_login.py (page_mp_login:30] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 16:54:45,199 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:54:45,232 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:54:45,332 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 16:54:45,527 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:54:45,547 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:54:45,577 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 16:54:45,686 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 16:54:45,686 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:54:45,776 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 16:54:45,777 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:55:59,346 INFO [root] [page_mp_login.py (page_mp_login:30] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 16:55:59,346 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:55:59,372 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:55:59,404 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 16:55:59,584 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:55:59,600 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:55:59,643 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 16:55:59,763 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 16:55:59,763 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:01,860 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 16:56:01,861 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:03,966 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 16:56:03,966 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:04,064 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:04,636 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:56:04,711 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 16:56:05,033 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:05,076 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:05,091 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:56:05,119 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-08 16:56:05,358 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 16:56:05,358 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:05,464 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 16:56:05,464 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:07,622 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 16:56:07,622 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:07,742 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 16:56:07,742 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:07,833 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:08,411 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 16:56:08,412 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:55,194 INFO [root] [page_mp_login.py (page_mp_login:30] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 16:56:55,195 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:55,219 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:56:55,260 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 16:56:55,434 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:55,449 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:56:55,487 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 16:56:55,600 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 16:56:55,600 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:55,689 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:56:56,277 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 16:56:56,277 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:28,437 INFO [root] [page_mp_login.py (page_mp_login:30] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 16:57:28,437 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:28,461 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:57:28,494 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 16:57:28,667 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:28,690 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:57:28,724 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 16:57:28,828 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 16:57:28,828 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:30,915 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 16:57:30,915 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:33,009 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 16:57:33,009 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:33,103 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:33,699 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:57:33,740 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 16:57:34,061 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:34,112 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:34,128 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 16:57:34,153 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-08 16:57:34,385 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 16:57:34,385 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:34,502 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 16:57:34,503 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:36,651 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 16:57:36,651 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:36,770 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 16:57:36,770 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:36,860 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 16:57:37,411 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 16:57:37,412 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:35:51,829 INFO [root] [page_mp_login.py (page_mp_login:30] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:35:51,829 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:35:51,865 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:35:51,899 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:35:52,058 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:35:52,081 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:35:52,112 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:35:52,224 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:35:52,224 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:35:52,316 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:35:52,976 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 17:35:52,976 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:36:26,697 INFO [root] [page_mp_login.py (page_mp_login_success:37] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:36:26,697 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:36:26,726 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:36:26,779 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:36:26,999 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:36:27,022 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:36:27,059 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:36:27,172 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:36:27,172 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:38:43,329 INFO [root] [page_mp_login.py (page_mp_login:32] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:38:43,330 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:38:43,371 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:38:43,418 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:38:43,633 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:38:43,661 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:38:43,699 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:38:43,814 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:38:43,814 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:09,012 INFO [root] [page_mp_login.py (page_mp_login_success:39] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:39:09,012 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:09,042 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:39:09,088 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:39:09,276 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:09,307 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:39:09,354 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:39:10,494 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:39:10,494 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:12,581 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 17:39:12,582 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:16,990 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 17:39:16,990 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:17,113 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:17,761 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:39:17,810 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 17:39:18,092 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:18,142 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:18,158 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:39:18,183 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-08 17:39:18,395 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 17:39:18,395 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:18,509 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 17:39:18,510 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:20,648 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 17:39:20,648 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:20,750 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 17:39:20,750 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:20,867 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:39:21,426 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 17:39:21,427 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:40:55,276 INFO [root] [page_mp_login.py (page_mp_login_success:39] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:40:55,276 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:40:55,299 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:40:55,332 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:40:55,479 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:40:55,498 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:40:55,534 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:40:56,640 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:40:56,640 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:40:58,751 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 17:40:58,751 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:02,915 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 17:41:02,915 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:03,038 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:03,632 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:41:03,679 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 17:41:03,961 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:04,013 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:04,027 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:41:04,053 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-08 17:41:04,258 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 17:41:04,259 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:04,370 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 17:41:04,370 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:06,502 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 17:41:06,502 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:06,610 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 17:41:06,610 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:08,708 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:41:08,741 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 17:41:08,741 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:00,716 INFO [root] [page_mp_login.py (page_mp_login:32] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:42:00,717 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:00,752 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:42:00,817 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:42:01,050 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:01,067 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:42:01,111 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:42:01,230 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:42:01,230 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:01,320 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:01,965 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-08 17:42:01,966 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:32,544 INFO [root] [page_mp_login.py (page_mp_login_success:39] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-08 17:42:32,545 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:32,569 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:42:32,598 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-08 17:42:32,748 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:32,766 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:42:32,801 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-08 17:42:33,908 INFO [root] [base.py (base_click:31] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-08 17:42:33,908 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:35,985 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-08 17:42:35,985 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:38,078 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-08 17:42:38,078 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:38,184 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:38,764 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:42:38,848 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:test001
+2020-01-08 17:42:39,142 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:39,185 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:39,203 INFO [root] [base.py (base_input:23] - 正在执行清空操作
+2020-01-08 17:42:39,229 INFO [root] [base.py (base_input:26] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-08 17:42:39,430 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-08 17:42:39,430 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:39,529 INFO [root] [base.py (base_click:31] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-08 17:42:39,530 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:41,662 INFO [root] [base.py (base_click:31] - 正在对('xpath', "//span[text()='数据库']")元素执行点击操作
+2020-01-08 17:42:41,662 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:41,764 INFO [root] [base.py (base_click:31] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-08 17:42:41,764 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:43,865 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-08 17:42:43,904 INFO [root] [base.py (base_get_text:36] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-08 17:42:43,904 INFO [root] [base.py (base_find:15] - 正在查找元素:
