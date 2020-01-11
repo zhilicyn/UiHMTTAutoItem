@@ -4,7 +4,6 @@ import pytest
 
 import page
 from page.page_in import PageIn
-from tools.read_yaml import read_yaml
 from tools.get_driver import GetDriver
 from tools.get_log import GetLog
 
@@ -25,7 +24,7 @@ class TestMisAudit:
     # 结束
     def teardown_class(self):
         # 关闭driver
-        sleep(20)
+        sleep(5)
         GetDriver.quit_driver()
 
     # 审核文章测试方法

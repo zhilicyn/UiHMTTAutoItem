@@ -1,21 +1,21 @@
-page_mp_article.py          62 INFO     正在调用自媒体文章发布业务组合方法,文章名:zhili_test001,文章内容:测试发布文章!,频道:数据库
+page_mp_article.py          63 INFO     正在调用自媒体文章发布业务组合方法,文章名:基于Android的黑马头条APP的设计与实现,文章内容:测试发布文章!,频道:android
 base.py                     37 INFO     正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
 base.py                     15 INFO     正在查找元素:
 base.py                     37 INFO     正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
 base.py                     15 INFO     正在查找元素:
 base.py                     15 INFO     正在查找元素:
 base.py                     29 INFO     正在执行清空操作
-base.py                     32 INFO     正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:zhili_test001
+base.py                     32 INFO     正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:基于Android的黑马头条APP的设计与实现
 base.py                     15 INFO     正在查找元素:
 base.py                     15 INFO     正在查找元素:
 base.py                     29 INFO     正在执行清空操作
 base.py                     32 INFO     正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
 base.py                     37 INFO     正在对('xpath', "//span[text()='自动']")元素执行点击操作
 base.py                     15 INFO     正在查找元素:
+web_base.py                 12 INFO     正在调用选择状态方法,placeholder=请选择,点击文本为:android
 base.py                     37 INFO     正在对('css selector', "[placeholder='请选择']")元素执行点击操作
 base.py                     15 INFO     正在查找元素:
-base.py                     37 INFO     正在对('xpath', "//span[text()='数据库']")元素执行点击操作
-base.py                     15 INFO     正在查找元素:
+base.py                     20 INFO     正在查找元素:
 base.py                     37 INFO     正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
 base.py                     15 INFO     正在查找元素:
 base.py                     15 INFO     正在查找元素:

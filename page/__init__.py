@@ -10,7 +10,7 @@ url_mis = "http://ttmis.research.itcast.cn/#/"
 
 """以下为文章配置数据"""
 article_title = read_yaml("mp_article.yaml")[0][0]
-article_channel = "数据库"
+article_channel = "android"
 
 
 """以下为自媒体配置数据"""

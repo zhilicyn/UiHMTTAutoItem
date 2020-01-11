@@ -1,5 +1,5 @@
 mp_article001:
-  title: "zhili_test001"
+  title: "基于Android的黑马头条APP的设计与实现"
   content: "测试发布文章!"
-  channel: "数据库"
+  channel: "android"
   expect: "新增文章成功"

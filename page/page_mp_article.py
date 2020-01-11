@@ -1,7 +1,7 @@
 import time
 
 import page
-from base.base import Base
+from base.web_base import WebBase
 from page.page_mp_login import PageMpLogin
 from tools.get_driver import GetDriver
 from tools.get_log import GetLog
@@ -9,7 +9,7 @@ from tools.get_log import GetLog
 # 获取日志对象
 log = GetLog().get_logger()
 
-class PageMpArticle(Base):
+class PageMpArticle(WebBase):
 
     # 点击内容管理
     def page_click_content(self):
@@ -42,12 +42,13 @@ class PageMpArticle(Base):
         self.base_click(page.mp_article_cover)
 
     # 选择频道
-    def page_check_channel(self, channel):
+    def page_check_channel(self,channel):
         # 点击选择频道
-        self.base_click(page.mp_channel)
-        time.sleep(2)
+        # self.base_click(page.mp_channel)
+        # time.sleep(2)
         # 选择具体方法
-        self.base_click((page.mp_check_channel[0], page.mp_check_channel[1].format(channel)))
+        # self.base_click((page.mp_check_channel[0], page.mp_check_channel[1].format(channel)))
+        self.web_base_click_ul_li("请选择",channel)
 
     # 点击发布
     def page_click_commit(self):
