@@ -28,5 +28,5 @@ class TestAppArticle:
     # 查找文章测试方法
     def test_app_article(self):
         # 查找文章组合业务方法
-        self.app_article.page_app_article(find_text='python',title_text='python')
+        self.app_article.page_app_article(find_text='区块链',title_text='python')
 
