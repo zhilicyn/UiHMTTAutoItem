@@ -25,7 +25,7 @@ class TestAppArticle:
     # 查找文章测试方法
     def test_app_article(self,channel=page.article_channel):
         # 查找文章组合业务方法
-        self.app_article.page_find_channel(channel)
+        self.app_article.page_app_article(channel)
         # 断言
         try:
             pass

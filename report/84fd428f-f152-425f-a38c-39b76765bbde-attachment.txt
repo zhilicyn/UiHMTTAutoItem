@@ -1,7 +1,0 @@
-base.py                     15 INFO     正在查找元素:
-base.py                     15 INFO     正在查找元素:
-app_base.py                 40 INFO     当前页面没有找到指定频道!
-base.py                     15 INFO     正在查找元素:
-app_base.py                 40 INFO     当前页面没有找到指定频道!
-base.py                     15 INFO     正在查找元素:
-app_base.py                 35 INFO     找到指定的频道了

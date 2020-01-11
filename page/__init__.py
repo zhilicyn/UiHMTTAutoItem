@@ -99,7 +99,11 @@ app_login_btn = By.XPATH,"//*[@index='4' and @class='android.widget.Button']"
 # 判断登录成功 -- 我的
 app_me = By.XPATH, "//*[@index='3' and contains(@text,'我的')]"
 # 频道区域
-app_area = By.XPATH, "//*[@class='android.widget.HorizontalScrollView']"
+app_area = By.XPATH, "//android.widget.HorizontalScrollView"
+# 文章区域
+app_article_area = By.XPATH,"//*[@class='android.view.View' and @index='0' and @scrollable='true']"
+# 搜索框
+app_search = By.XPATH,"//*[@index='1' and @text='搜索']"
 
 
 
