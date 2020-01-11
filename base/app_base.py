@@ -66,7 +66,7 @@ class AppBase(Base):
         end_x = width * 0.5
         end_y = y + height * 0.2
         # 组合find_text包含的元素定位信息
-        loc = By.XPATH, "//*[contains(@text,'{}')]".format(find_text)
+        loc = By.XPATH, "//*[@bounds='[0,260][900,1464]']//*[contains(@text,'{}')]".format(find_text)
         # 获取当前页面元素结构
         page_source = self.driver.page_source
         while True:

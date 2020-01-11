@@ -1,3 +1,5 @@
+from time import sleep
+
 import page
 from page.page_in import PageIn
 from tools.get_driver import GetDriver
@@ -20,19 +22,11 @@ class TestAppArticle:
     # 结束
     def teardown_class(self):
         # 关闭driver
+        sleep(5)
         GetDriver.quit_app_driver()
 
     # 查找文章测试方法
-    def test_app_article(self,channel=page.article_channel):
+    def test_app_article(self):
         # 查找文章组合业务方法
-        self.app_article.page_app_article(channel)
-        # 断言
-        try:
-            pass
-        except Exception as e:
-            # 日志
-            log.error(e)
-            # 截图
-            self.app_article.base_get_img()
-            # 抛出异常
-            raise
+        self.app_article.page_app_article(find_text='python',title_text='python')
+

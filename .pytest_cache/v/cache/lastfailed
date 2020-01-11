@@ -1,5 +1,3 @@
 {
-  "scripts/test04_mis_audit.py::TestMisAudit::()::test_article_audit": true,
-  "scripts/test04_mis_audit.py::TestMisAudit::()::test_article_audit[test1000001-\\u6570\\u636e\\u5e93-\\u7ba1\\u7406\\u5458]": true,
-  "scripts/test06_app_article.py::TestAppArticle::()::test_app_article": true
+  "scripts/test04_mis_audit.py::TestMisAudit::()::test_article_audit[test1000001-\\u6570\\u636e\\u5e93-\\u7ba1\\u7406\\u5458]": true
 }

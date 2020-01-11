@@ -101,7 +101,7 @@ app_me = By.XPATH, "//*[@index='3' and contains(@text,'我的')]"
 # 频道区域
 app_area = By.XPATH, "//android.widget.HorizontalScrollView"
 # 文章区域
-app_article_area = By.XPATH,"//*[@class='android.view.View' and @index='0' and @scrollable='true']"
+app_article_area = By.XPATH,"//*[@bounds='[0,260][900,1464]']"
 # 搜索框
 app_search = By.XPATH,"//*[@index='1' and @text='搜索']"
 

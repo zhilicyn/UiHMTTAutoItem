@@ -1,0 +1,93 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1578733331839" stop="1578733562646">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1578733331839" status="passed" stop="1578733357005">
+      <name>test01_mp_login.TestLogin.test_mp_login[13812345678-246810-13812345678]</name>
+      <attachments>
+        <attachment source="b5220eae-3adf-4b97-8d7b-9af76715d55e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7996-MainThread"/>
+        <label name="host" value="DESKTOP-MS0CJ66"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578733361323" status="passed" stop="1578733393855">
+      <name>test02_mp_article.TestMpArticle.test02_mp_post_article[\u57fa\u4e8eAndroid\u7684\u9ed1\u9a6c\u5934\u6761APP\u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0-\u6d4b\u8bd5\u53d1\u5e03\u6587\u7ae0!-android-\u65b0\u589e\u6587\u7ae0\u6210\u529f]</name>
+      <attachments>
+        <attachment source="9a61ea3d-6af5-4e68-a619-98583cc771f9-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="3adcc569-e184-4513-b060-c74a87545472-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7996-MainThread"/>
+        <label name="host" value="DESKTOP-MS0CJ66"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578733396159" status="passed" stop="1578733418262">
+      <name>test03_mis_login.TestMisLogin.test_login[testid-testpwd123-\u7ba1\u7406\u5458]</name>
+      <attachments>
+        <attachment source="49351fe7-578e-4b83-8cb2-99be5eb9b054-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7996-MainThread"/>
+        <label name="host" value="DESKTOP-MS0CJ66"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578733420571" status="passed" stop="1578733475544">
+      <name>test04_mis_audit.TestMisAudit.test_article_audit</name>
+      <attachments>
+        <attachment source="5461f9a6-b39c-44d3-ab78-324a42fa7f7e-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d91b932f-c9ea-4697-ae94-4509eda273f4-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7996-MainThread"/>
+        <label name="host" value="DESKTOP-MS0CJ66"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578733482859" status="passed" stop="1578733516193">
+      <name>test05_app_login.TestAppLogin.test_app_login</name>
+      <attachments>
+        <attachment source="bec3d921-d561-4c3e-86c8-ebca4178b354-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7996-MainThread"/>
+        <label name="host" value="DESKTOP-MS0CJ66"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578733518169" status="passed" stop="1578733562646">
+      <name>test06_app_article.TestAppArticle.test_app_article</name>
+      <attachments>
+        <attachment source="925c90ad-5da4-4ebc-b11d-5dba9bee4195-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="2446d28d-28d1-4ab2-ab29-acc63961261a-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7996-MainThread"/>
+        <label name="host" value="DESKTOP-MS0CJ66"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

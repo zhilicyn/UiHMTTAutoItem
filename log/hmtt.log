@@ -913,3 +913,208 @@
 2020-01-11 16:33:40,172 INFO [root] [base.py (base_find:15] - 正在查找元素:
 2020-01-11 16:33:43,675 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
 2020-01-11 16:33:44,162 INFO [root] [app_base.py (app_base_down_to_up:86] - 滑不动了,已经是最后一页了
+2020-01-11 16:49:57,852 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:50:02,451 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 16:50:04,810 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 16:50:09,757 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:50:09,804 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 16:50:11,545 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 16:50:16,346 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 16:50:16,347 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:22,028 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:26,776 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 16:51:29,413 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 16:51:34,771 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:34,821 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 16:51:36,763 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 16:51:41,660 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 16:51:41,661 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:41,816 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:44,246 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:47,292 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 16:51:47,959 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:51,513 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 16:51:52,115 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:52,425 INFO [root] [app_base.py (app_base_right_to_left:37] - 找到指定的频道了
+2020-01-11 16:51:53,644 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:54,164 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:51:54,612 INFO [root] [app_base.py (app_base_down_to_up:76] - 找到指定的文章了
+2020-01-11 16:54:20,211 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:24,147 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 16:54:26,755 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 16:54:31,739 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:31,777 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 16:54:33,719 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 16:54:38,867 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 16:54:38,867 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:39,049 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:42,119 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:45,162 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 16:54:45,790 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:49,351 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 16:54:49,979 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 16:54:50,243 INFO [root] [app_base.py (app_base_right_to_left:37] - 找到指定的频道了
+2020-01-11 16:54:51,483 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:24,738 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:29,346 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:00:31,656 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 17:00:36,842 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:36,885 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:00:38,802 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 17:00:44,447 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 17:00:44,447 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:44,633 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:47,523 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:51,087 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 17:00:51,731 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:55,235 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 17:00:55,835 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:56,082 INFO [root] [app_base.py (app_base_right_to_left:37] - 找到指定的频道了
+2020-01-11 17:00:57,322 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:00:57,857 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:01,396 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:01:02,185 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:05,344 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:01:05,979 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:09,068 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:01:09,629 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:12,688 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:01:13,281 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:16,311 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:01:16,894 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:19,912 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:01:20,470 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:01:21,378 INFO [root] [app_base.py (app_base_down_to_up:76] - 找到指定的文章了
+2020-01-11 17:02:34,844 INFO [root] [page_mp_login.py (page_mp_login:32] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-11 17:02:34,844 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:02:34,993 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:02:35,147 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-11 17:02:35,578 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:02:35,597 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:02:35,627 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-11 17:02:35,764 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-11 17:02:35,764 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:02:35,926 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:02:36,975 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', '.user-name')元素的文本内容:13812345678
+2020-01-11 17:02:36,975 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:00,040 INFO [root] [page_mp_login.py (page_mp_login_success:39] - 正在调用自媒体登录组合方法,账号:13812345678,验证码:246810
+2020-01-11 17:03:00,040 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:00,097 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:00,134 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入手机号']") 元素执行输入操作:13812345678
+2020-01-11 17:03:00,369 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:00,390 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:00,445 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='验证码']") 元素执行输入操作:246810
+2020-01-11 17:03:01,739 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-11 17:03:01,739 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:01,862 INFO [root] [page_mp_article.py (page_publish_article:63] - 正在调用自媒体文章发布业务组合方法,文章名:基于Android的黑马头条APP的设计与实现,文章内容:测试发布文章!,频道:android
+2020-01-11 17:03:03,862 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//span[text()='内容管理']")元素执行点击操作
+2020-01-11 17:03:03,862 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:06,001 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//li[contains(text(),'发布文章')]")元素执行点击操作
+2020-01-11 17:03:06,001 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:06,132 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:07,017 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:07,369 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='文章名称']") 元素执行输入操作:基于Android的黑马头条APP的设计与实现
+2020-01-11 17:03:08,077 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:08,133 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:08,152 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:08,183 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', '#tinymce') 元素执行输入操作:测试发布文章!
+2020-01-11 17:03:08,465 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//span[text()='自动']")元素执行点击操作
+2020-01-11 17:03:08,465 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:08,589 INFO [root] [web_base.py (web_base_click_ul_li:12] - 正在调用选择状态方法,placeholder=请选择,点击文本为:android
+2020-01-11 17:03:08,589 INFO [root] [base.py (base_click:37] - 正在对('css selector', "[placeholder='请选择']")元素执行点击操作
+2020-01-11 17:03:08,589 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:09,817 INFO [root] [base.py (base_finds:20] - 正在查找元素:
+2020-01-11 17:03:11,515 INFO [root] [base.py (base_click:37] - 正在对('css selector', "button[class='el-button filter-item el-button--primary']")元素执行点击操作
+2020-01-11 17:03:11,515 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:13,800 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:13,833 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', "div[class='el-message el-message--success']>p")元素的文本内容:新增文章成功
+2020-01-11 17:03:13,833 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:35,623 INFO [root] [page_mis_login.py (page_mis_login:36] - 正在调用后台组合登录业务方法,用户名:testid,密码:testpwd123
+2020-01-11 17:03:35,623 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:35,651 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:35,691 INFO [root] [base.py (base_input:32] - 正在给 ('name', 'username') 元素执行输入操作:testid
+2020-01-11 17:03:35,835 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:35,920 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:35,967 INFO [root] [base.py (base_input:32] - 正在给 ('name', 'password') 元素执行输入操作:testpwd123
+2020-01-11 17:03:36,058 INFO [root] [base.py (base_click:37] - 正在对('css selector', '#inp1')元素执行点击操作
+2020-01-11 17:03:36,059 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:38,161 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:38,238 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', '.user_info>span')元素的文本内容:欢迎 管理员
+2020-01-11 17:03:38,239 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:59,211 INFO [root] [page_mis_login.py (page_mis_login_success:43] - 正在调用后台组合登录业务成功方法,用户名:testid,密码:testpwd123
+2020-01-11 17:03:59,212 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:59,249 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:59,293 INFO [root] [base.py (base_input:32] - 正在给 ('name', 'username') 元素执行输入操作:testid
+2020-01-11 17:03:59,385 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:59,407 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:03:59,435 INFO [root] [base.py (base_input:32] - 正在给 ('name', 'password') 元素执行输入操作:testpwd123
+2020-01-11 17:03:59,529 INFO [root] [base.py (base_click:37] - 正在对('css selector', '#inp1')元素执行点击操作
+2020-01-11 17:03:59,529 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:03:59,603 INFO [root] [page_mis_audit.py (page_mis_audit:62] - 正在调用后台文章审核组合业务方法,文章标题:基于Android的黑马头条APP的设计与实现,频道:android
+2020-01-11 17:04:01,604 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@class='menu']//*[text()='信息管理']")元素执行点击操作
+2020-01-11 17:04:01,605 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:03,717 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@class='menu']//*[text()='内容审核']")元素执行点击操作
+2020-01-11 17:04:03,717 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:05,983 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:05,999 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:04:06,029 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入: 文章名称']") 元素执行输入操作:基于Android的黑马头条APP的设计与实现
+2020-01-11 17:04:08,361 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:08,377 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:04:08,408 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入: 频道']") 元素执行输入操作:android
+2020-01-11 17:04:10,540 INFO [root] [web_base.py (web_base_click_ul_li:12] - 正在调用选择状态方法,placeholder=请选择状态,点击文本为:待审核
+2020-01-11 17:04:10,540 INFO [root] [base.py (base_click:37] - 正在对('css selector', "[placeholder='请选择状态']")元素执行点击操作
+2020-01-11 17:04:10,540 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:11,654 INFO [root] [base.py (base_finds:20] - 正在查找元素:
+2020-01-11 17:04:13,644 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.find')元素执行点击操作
+2020-01-11 17:04:13,645 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:17,783 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:17,818 INFO [root] [base.py (base_get_text:42] - 正在获取('css selector', '.cell>span')元素的文本内容:1215799598061191168
+2020-01-11 17:04:17,818 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:19,843 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[text()='通过']/..")元素执行点击操作
+2020-01-11 17:04:19,843 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:21,975 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.el-button--primary')元素执行点击操作
+2020-01-11 17:04:21,975 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:28,835 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:28,852 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:04:28,888 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入: 文章名称']") 元素执行输入操作:基于Android的黑马头条APP的设计与实现
+2020-01-11 17:04:31,346 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:31,368 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:04:31,406 INFO [root] [base.py (base_input:32] - 正在给 ('css selector', "[placeholder='请输入: 频道']") 元素执行输入操作:android
+2020-01-11 17:04:31,534 INFO [root] [web_base.py (web_base_click_ul_li:12] - 正在调用选择状态方法,placeholder=请选择状态,点击文本为:审核通过
+2020-01-11 17:04:31,534 INFO [root] [base.py (base_click:37] - 正在对('css selector', "[placeholder='请选择状态']")元素执行点击操作
+2020-01-11 17:04:31,534 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:32,637 INFO [root] [base.py (base_finds:20] - 正在查找元素:
+2020-01-11 17:04:34,411 INFO [root] [base.py (base_click:37] - 正在对('css selector', '.find')元素执行点击操作
+2020-01-11 17:04:34,411 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:34,482 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:35,542 INFO [root] [web_base.py (web_base_element_exists:31] - 页面存在要查找的元素
+2020-01-11 17:04:53,984 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:04:58,475 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:05:01,340 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 17:05:06,397 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:06,455 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:05:08,221 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 17:05:12,976 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 17:05:12,976 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:16,140 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:16,192 INFO [root] [page_app_login.py (page_if_element_exists:27] - 找到我的菜单了!它的位置位于:{'x': 675, 'y': 1464}
+2020-01-11 17:05:26,565 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:31,017 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:05:33,579 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 17:05:38,474 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:38,517 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 17:05:40,285 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 17:05:45,117 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 17:05:45,117 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:45,298 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:47,631 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:51,140 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 17:05:51,787 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:54,794 INFO [root] [app_base.py (app_base_right_to_left:42] - 当前页面没有找到指定频道!
+2020-01-11 17:05:55,394 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:55,708 INFO [root] [app_base.py (app_base_right_to_left:37] - 找到指定的频道了
+2020-01-11 17:05:56,947 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:05:57,501 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:06:00,830 INFO [root] [app_base.py (app_base_down_to_up:81] - 当前页面没有找到指定文章!
+2020-01-11 17:06:01,533 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 17:06:02,474 INFO [root] [app_base.py (app_base_down_to_up:76] - 找到指定的文章了
