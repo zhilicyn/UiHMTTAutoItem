@@ -73,7 +73,7 @@ class AppBase(Base):
             # 首先 查找一次当前页面是否存在要找的元素
             try:
                 el2 = self.base_find(loc, timeout=3)
-                log.info("找到指定的文章了")
+                log.info("找到包含{}的文章了,文章标题为{}".format(find_text,el2.text))
                 el2.click()
                 # 跳出循环
                 break
