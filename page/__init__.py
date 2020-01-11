@@ -13,8 +13,8 @@ article_title = read_yaml("mp_article.yaml")[0][0]
 article_channel = "android"
 
 """以下为APP配置数据"""
-appPackage = ""
-appActivity = ""
+appPackage = "com.itcast.toutiaoApp"
+appActivity = ".MainActivity"
 
 
 """以下为自媒体配置数据"""

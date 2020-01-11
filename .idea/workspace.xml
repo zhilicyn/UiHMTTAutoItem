@@ -3,19 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eda10a1d-e8c4-4220-b0b5-b0618b224e3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mp_article.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/mp_article.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/hmtt.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/hmtt.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/page_mp_article.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/page_mp_article.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/0c7faf7d-5541-42bf-ba0c-7c7bf0f45d05-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/7db9eabb-5c9d-499c-b20e-ef6ec3b79dee-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d9f5b0d1-7fa8-4c58-abbc-dc3f87f6bdbb-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f8b9183a-0478-48d3-953d-e2b5c4f6fb55-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fd8b6511-ded1-4704-919e-271e97a33096-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fd922741-8cff-4e41-8df8-0f5feeb1738d-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/test04_mis_audit.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test04_mis_audit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/get_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/get_driver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,31 +24,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/test01_mp_login.py">
+        <entry file="file://$PROJECT_DIR$/data/mp_article.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/get_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-364">
+              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#22#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/mp_login.yaml">
+        <entry file="file://$USER_HOME$/AppData/Roaming/feiq/AutoRecv Files/get_driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="-66">
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/mp_article.yaml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/app_base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -110,22 +110,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/test02_mp_article.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="352">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -151,7 +139,6 @@
         <option value="$PROJECT_DIR$/page/loginPage.py" />
         <option value="$PROJECT_DIR$/page/page_mp__backstage_management.py" />
         <option value="$PROJECT_DIR$/base/getDriver.py" />
-        <option value="$PROJECT_DIR$/tools/get_driver.py" />
         <option value="$PROJECT_DIR$/scripts/test01_post_article.py" />
         <option value="$PROJECT_DIR$/tools/get_log.py" />
         <option value="$PROJECT_DIR$/data/mp_login.yaml" />
@@ -176,8 +163,10 @@
         <option value="$PROJECT_DIR$/scripts/test04_mis_audit.py" />
         <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/data/mp_article.yaml" />
-        <option value="$PROJECT_DIR$/page/__init__.py" />
         <option value="$PROJECT_DIR$/page/page_mp_article.py" />
+        <option value="$PROJECT_DIR$/base/app_base.py" />
+        <option value="$PROJECT_DIR$/page/__init__.py" />
+        <option value="$PROJECT_DIR$/tools/get_driver.py" />
       </list>
     </option>
   </component>
@@ -253,7 +242,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.page_mis_audit">
+  <component name="RunManager" selected="Python.get_driver">
+    <configuration name="get_driver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UiHMTTAutoItem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/get_driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="page_mis_audit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UiHMTTAutoItem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,21 +348,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for scripts.test01_mp_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="UiHMTTAutoItem" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;scripts.test01_mp_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in test01_mp_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="UiHMTTAutoItem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -373,16 +368,16 @@
       <item itemvalue="Python.read_yaml" />
       <item itemvalue="Python.page_mp_article" />
       <item itemvalue="Python.page_mis_audit" />
-      <item itemvalue="Python tests.pytest for scripts.test01_mp_login" />
       <item itemvalue="Python tests.pytest in test01_mp_login.py" />
+      <item itemvalue="Python.get_driver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_driver" />
         <item itemvalue="Python.page_mis_audit" />
         <item itemvalue="Python.page_mp_article" />
         <item itemvalue="Python.read_yaml" />
         <item itemvalue="Python tests.pytest in test01_mp_login.py" />
-        <item itemvalue="Python tests.pytest for scripts.test01_mp_login" />
       </list>
     </recent_temporary>
   </component>
@@ -418,19 +413,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="710" y="0" width="831" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18113208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3264402" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32544377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293944" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49939248" visible="true" weight="0.2751479" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49939248" weight="0.2751479" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060755" side_tool="true" weight="0.3293944" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -503,13 +499,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/feiq/AutoRecv Files/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/tools/get_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" />
     <entry file="file://$PROJECT_DIR$/data/mis_audit.yaml" />
     <entry file="file://$PROJECT_DIR$/tools/read_yaml.py">
@@ -653,23 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/page_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/web_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-52">
@@ -694,6 +666,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="136" column="69" lean-forward="true" selection-start-line="136" selection-start-column="41" selection-end-line="136" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/page_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/app_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/feiq/AutoRecv Files/get_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/get_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

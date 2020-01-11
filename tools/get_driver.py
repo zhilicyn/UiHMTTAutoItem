@@ -1,3 +1,5 @@
+from time import sleep
+
 from selenium import webdriver
 import appium.webdriver
 
@@ -29,7 +31,6 @@ class GetDriver:
     # 获取app应用driver
     @classmethod
     def get_app_driver(cls):
-        cap = None
         if cls.__app_driver is None:
             cap = {
                 "platformName": "Android", # 测试的平台(Android和iOS)
@@ -40,8 +41,9 @@ class GetDriver:
                 'resetKeyboard': True, # 解决脚本输入中文的问题
                 'unicodeKeyboard': True,
                 'noReset':False # 不重置应用,设置为False.表示每次启动APP都重置应用
-}
-            cls.__app_driver = appium.webdriver.Remote("http://127.0.0.1:4444/wd/hub",cap)
+        }
+            cls.__app_driver = appium.webdriver.Remote("http://127.0.0.1:4723/wd/hub", cap)
+        return cls.__app_driver
 
     @classmethod
     def quit_app_driver(cls):
@@ -50,3 +52,6 @@ class GetDriver:
             # 置空
             cls.__app_driver = None
 
+if __name__ == '__main__':
+    GetDriver.get_app_driver()
+    sleep(5)
