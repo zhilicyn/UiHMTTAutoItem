@@ -1,7 +1,26 @@
+from selenium.webdriver.common.by import By
+
 from base.base import Base
 
 
 class AppBase(Base):
+
+    # 滑动查找频道
+    def app_base_swipe_search_channel(self,channel):
+        flag = False
+        # 获取手机分辨率
+        size = self.driver.get_window_size
+        width = size['width']
+        height = size['height']
+        loc = By.XPATH,"[@class='android.view.View' and @text='{}'".format(channel)
+        # 向左滑动
+        while flag == True:
+            self.driver.swipe(width * 0.8, height * 0.5, width * 0.2, height * 0.5)
+            try:
+                self.base_find(loc,timeout=3)
+                flag = True
+            except:
+                pass
 
     # 滑动方法
     def app_base_swipe(self, tag=1):
@@ -21,3 +40,4 @@ class AppBase(Base):
         # 向下滑动
         elif tag == 4:
             self.driver.swipe(width * 0.5, height * 0.2, width * 0.5, height * 0.8)
+
