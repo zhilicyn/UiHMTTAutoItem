@@ -34,7 +34,7 @@ mp_nickname = By.CSS_SELECTOR, ".user-name"
 mp_content_manage = By.XPATH, "//span[text()='内容管理']"
 # 发布文章
 mp_publish_article = By.XPATH, "//li[contains(text(),'发布文章')]"
-# 提示
+# # 提示
 mp_msg_alert = By.CSS_SELECTOR, "div[class='el-message el-message--success']>p"
 
 """发布文章页面"""
@@ -87,4 +87,16 @@ mis_pass_btn = By.XPATH,"//*[text()='通过']/.."
 mis_confirm_pass = By.CSS_SELECTOR,".el-button--primary"
 # 文章id
 mis_article_id = By.CSS_SELECTOR,".cell>span"
+
+"""以下为APP应用配置数据"""
+# 用户名
+app_username = By.XPATH,"//*[@index='1' and @class='android.widget.EditText']"
+# 验证码
+app_code = By.XPATH,"//*[@index='2' and @class='android.widget.EditText']"
+# 登录按钮
+app_login_btn = By.XPATH,"//*[@index='4' and @class='android.widget.Button']"
+# 判断登录成功 -- 我的
+app_me = By.XPATH, "//*[@index='3' and contains(@text,'我的')]"
+
+
 
