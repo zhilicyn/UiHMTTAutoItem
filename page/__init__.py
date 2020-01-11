@@ -12,6 +12,10 @@ url_mis = "http://ttmis.research.itcast.cn/#/"
 article_title = read_yaml("mp_article.yaml")[0][0]
 article_channel = "android"
 
+"""以下为APP配置数据"""
+appPackage = ""
+appActivity = ""
+
 
 """以下为自媒体配置数据"""
 """登录页面"""
