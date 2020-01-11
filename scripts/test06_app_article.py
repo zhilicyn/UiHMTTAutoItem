@@ -1,6 +1,5 @@
 from time import sleep
 
-import page
 from page.page_in import PageIn
 from tools.get_driver import GetDriver
 from tools.get_log import GetLog
