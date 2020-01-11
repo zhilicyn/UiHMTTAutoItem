@@ -35,3 +35,9 @@ class PageAppLogin(AppBase):
         self.page_input_username(username)
         self.page_input_code(code)
         self.page_click_login_btn()
+
+    # 组合登录业务成功方法
+    def page_app_login_success(self, username="13812345678", code="246810"):
+        self.page_input_username(username)
+        self.page_input_code(code)
+        self.page_click_login_btn()

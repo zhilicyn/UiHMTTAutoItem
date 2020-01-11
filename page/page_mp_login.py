@@ -1,7 +1,7 @@
 import time
 
 import page
-from base.base import Base
+from base.web_base import WebBase
 
 from tools.get_log import GetLog
 
@@ -9,7 +9,7 @@ from tools.get_log import GetLog
 log = GetLog().get_logger()
 
 
-class PageMpLogin(Base):
+class PageMpLogin(WebBase):
 
     # 输入手机号
     def page_input_phone(self, phone):
