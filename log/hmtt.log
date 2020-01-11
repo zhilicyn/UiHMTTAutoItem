@@ -177,3 +177,290 @@
 2020-01-11 10:32:01,380 INFO [root] [base.py (base_find:15] - 正在查找元素:
 2020-01-11 10:32:04,523 INFO [root] [base.py (base_find:15] - 正在查找元素:
 2020-01-11 10:32:04,659 INFO [root] [page_app_login.py (page_if_element_exists:27] - 找到我的菜单了!它的位置位于:{'x': 675, 'y': 1464}
+2020-01-11 13:30:11,420 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:30:15,347 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:30:18,269 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:30:23,421 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:30:23,455 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:30:25,183 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:30:30,058 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:30:30,058 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:30:30,943 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:31:17,531 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:31:21,300 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:31:23,543 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:31:28,547 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:31:28,578 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:31:30,209 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:31:34,965 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:31:34,965 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:31:35,131 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:35:40,645 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:35:44,990 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:35:47,047 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:35:51,852 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:35:51,897 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:35:53,679 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:35:58,511 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:35:58,511 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:35:58,677 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:36:43,499 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:36:47,944 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:36:50,157 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:36:55,025 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:36:55,060 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:36:56,728 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:37:01,531 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:37:01,531 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:37:02,446 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:39:47,168 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:39:51,628 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:39:53,757 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:39:59,032 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:39:59,065 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:40:00,739 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:40:05,562 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:40:05,563 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:40:05,739 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:40:28,088 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:40:32,379 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:40:34,666 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:40:39,706 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:40:39,742 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:40:41,406 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:40:46,219 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:40:46,219 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:40:48,364 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:41:54,033 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:41:58,043 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:42:00,171 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:42:05,099 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:42:05,146 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:42:06,868 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:42:11,607 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:42:11,607 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:42:13,780 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:45:15,326 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:45:19,690 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:45:21,738 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:45:27,077 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:45:27,112 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:45:28,801 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:45:34,030 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:45:34,030 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:45:36,964 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:45:37,061 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="fb56bac6-9891-48de-abe4-25a9e125039c", element="4")>了
+2020-01-11 13:46:56,031 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:47:00,364 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:47:02,696 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:47:07,598 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:47:07,631 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:47:09,348 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:47:14,125 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:47:14,126 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:47:16,275 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:47:16,369 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="9bb3890b-59b5-48f0-845b-789a8c988c6a", element="4")>了
+2020-01-11 13:49:39,423 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:49:43,885 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:49:46,489 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:49:51,873 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:49:51,905 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:49:53,576 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:49:58,783 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:49:58,784 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:50:01,719 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:50:02,054 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="296eedd2-e9fc-4c7b-a752-7e8d601dbc5a", element="4")>了
+2020-01-11 13:51:51,109 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:51:55,490 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:51:57,686 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:52:03,079 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:03,126 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:52:04,883 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:52:10,129 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:52:10,129 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:12,276 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:12,603 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="f40a9607-7b46-4451-b8c8-b390dbe1a144", element="4")>了
+2020-01-11 13:52:12,634 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 13:52:12,669 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 13:52:25,992 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:29,901 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:52:32,036 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:52:37,683 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:37,713 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:52:39,377 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:52:44,233 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:52:44,233 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:46,393 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:52:46,817 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="1282c3a1-73f5-4440-98f1-a1998a5ebf82", element="4")>了
+2020-01-11 13:52:46,867 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 13:52:46,906 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 13:53:38,058 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:53:42,415 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:53:44,507 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:53:49,779 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:53:49,814 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:53:51,522 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:53:56,766 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:53:56,767 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:53:58,915 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:53:59,318 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="93b6ffd6-e6eb-4158-96a4-1be8a8cd4f7d", element="4")>了
+2020-01-11 13:53:59,634 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 13:53:59,685 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 13:55:43,170 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:55:47,152 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:55:49,384 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 13:55:54,261 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:55:54,301 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 13:55:56,037 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 13:56:00,819 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 13:56:00,819 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:56:02,978 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 13:56:03,297 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="c34ee555-53cb-46a4-94a5-e493ee1eeaf0", element="4")>了
+2020-01-11 13:56:03,340 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 13:56:03,365 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 14:16:50,444 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:16:55,037 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:16:57,430 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 14:17:02,245 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:17:02,282 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:17:04,013 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 14:17:09,295 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 14:17:09,295 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:17:11,461 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:17:11,882 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="45f1b7d4-fc80-49a3-87a8-5396a514ba02", element="4")>了
+2020-01-11 14:17:11,909 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 14:17:11,938 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 14:17:12,073 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:17:15,217 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:17:15,976 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:17:19,067 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:17:19,636 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:17:22,699 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:17:23,244 ERROR [root] [app_base.py (app_base_swipe_search_channel:42] - 已经滑到最后一页了
+2020-01-11 14:19:42,084 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:19:46,423 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:19:48,784 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 14:19:53,711 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:19:53,759 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:19:55,332 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 14:20:00,551 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 14:20:00,552 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:20:02,722 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:20:03,119 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="bfe56608-025f-4b5f-9842-24a78b52f11b", element="4")>了
+2020-01-11 14:20:03,277 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 14:20:03,803 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 14:20:03,917 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:20:07,009 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:20:07,610 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:20:10,682 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:20:11,273 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:20:14,337 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:20:14,861 ERROR [root] [app_base.py (app_base_swipe_search_channel:42] - 已经滑到最后一页了
+2020-01-11 14:26:32,106 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:26:36,415 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:26:38,647 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 14:26:43,647 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:26:43,678 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:26:45,397 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 14:26:50,666 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 14:26:50,666 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:26:52,818 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:26:53,024 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="a0af512d-62e2-4511-8285-5a6725dc0962", element="4")>了
+2020-01-11 14:26:53,070 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 14:26:53,124 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 14:26:53,230 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:26:56,309 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:26:56,919 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:26:59,991 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:27:00,600 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:27:03,682 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:27:04,235 ERROR [root] [app_base.py (app_base_swipe_search_channel:42] - 已经滑到最后一页了
+2020-01-11 14:27:49,336 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:27:53,255 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:27:55,625 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 14:28:01,096 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:01,261 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:28:03,823 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 14:28:08,968 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 14:28:08,968 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:11,122 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:11,505 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="ba20ca6c-41d4-4cb0-835b-9576a4838e26", element="4")>了
+2020-01-11 14:28:11,547 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 14:28:11,592 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 14:28:11,706 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:16,863 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:28:17,553 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:22,676 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:28:23,241 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:28,371 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:28:28,890 ERROR [root] [app_base.py (app_base_swipe_search_channel:42] - 已经滑到最后一页了
+2020-01-11 14:28:53,212 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:28:57,599 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:28:59,862 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 14:29:04,734 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:29:04,770 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 14:29:06,494 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 14:29:11,722 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 14:29:11,722 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:29:13,887 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:29:14,208 INFO [root] [app_base.py (app_base_swipe_search_channel:20] - 定位到元素<appium.webdriver.webelement.WebElement (session="b31e2d5b-cd4c-459c-9409-575c9564954d", element="4")>了
+2020-01-11 14:29:14,260 INFO [root] [app_base.py (app_base_swipe_search_channel:23] - 元素的坐标为:x=0,y=162
+2020-01-11 14:29:14,300 INFO [root] [app_base.py (app_base_swipe_search_channel:27] - 元素的宽高为:width=900,height=98
+2020-01-11 14:29:14,458 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:29:19,577 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:29:20,201 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:29:25,318 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:29:25,928 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 14:29:31,051 INFO [root] [app_base.py (app_base_swipe_search_channel:38] - 当前页面找不到android频道!
+2020-01-11 14:29:31,553 ERROR [root] [app_base.py (app_base_swipe_search_channel:42] - 已经滑到最后一页了
+2020-01-11 15:00:28,331 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:00:32,752 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:00:35,268 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 15:00:40,110 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:00:40,157 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:00:42,189 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 15:00:47,310 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 15:00:47,311 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:01:28,591 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:01:33,111 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:01:35,256 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 15:01:40,574 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:01:40,608 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:01:42,444 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 15:01:47,246 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 15:01:47,246 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:02,318 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:06,629 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:04:08,915 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 15:04:14,187 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:14,237 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:04:16,310 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 15:04:20,947 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 15:04:20,948 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:21,111 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:23,835 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:27,367 INFO [root] [app_base.py (app_base_right_to_left:39] - 当前页面没有找到指定频道!
+2020-01-11 15:04:27,993 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:31,003 INFO [root] [app_base.py (app_base_right_to_left:39] - 当前页面没有找到指定频道!
+2020-01-11 15:04:31,598 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:31,836 INFO [root] [app_base.py (app_base_right_to_left:35] - 找到指定的频道了
+2020-01-11 15:04:32,246 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:33,114 INFO [root] [app_base.py (app_base_right_to_left:35] - 找到指定的频道了
+2020-01-11 15:04:36,437 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:04:36,501 INFO [root] [app_base.py (app_base_right_to_left:35] - 找到指定的频道了
+2020-01-11 15:04:39,707 INFO [root] [app_base.py (app_base_right_to_left:43] - 滑不动了,已经是最后一页了
+2020-01-11 15:05:19,167 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:23,616 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:05:25,793 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入操作:13812345678
+2020-01-11 15:05:30,673 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:30,727 INFO [root] [base.py (base_input:29] - 正在执行清空操作
+2020-01-11 15:05:32,378 INFO [root] [base.py (base_input:32] - 正在给 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入操作:246810
+2020-01-11 15:05:37,529 INFO [root] [base.py (base_click:37] - 正在对('xpath', "//*[@index='4' and @class='android.widget.Button']")元素执行点击操作
+2020-01-11 15:05:37,529 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:37,674 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:39,717 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:43,237 INFO [root] [app_base.py (app_base_right_to_left:40] - 当前页面没有找到指定频道!
+2020-01-11 15:05:43,858 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:47,351 INFO [root] [app_base.py (app_base_right_to_left:40] - 当前页面没有找到指定频道!
+2020-01-11 15:05:47,938 INFO [root] [base.py (base_find:15] - 正在查找元素:
+2020-01-11 15:05:48,462 INFO [root] [app_base.py (app_base_right_to_left:35] - 找到指定的频道了

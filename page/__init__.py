@@ -17,6 +17,7 @@ appPackage = "com.itcast.toutiaoApp"
 appActivity = ".MainActivity"
 
 
+
 """以下为自媒体配置数据"""
 """登录页面"""
 # 手机号
@@ -97,6 +98,8 @@ app_code = By.XPATH,"//*[@index='2' and @class='android.widget.EditText']"
 app_login_btn = By.XPATH,"//*[@index='4' and @class='android.widget.Button']"
 # 判断登录成功 -- 我的
 app_me = By.XPATH, "//*[@index='3' and contains(@text,'我的')]"
+# 频道区域
+app_area = By.XPATH, "//*[@class='android.widget.HorizontalScrollView']"
 
 
 

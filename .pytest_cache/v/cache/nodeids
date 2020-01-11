@@ -1,3 +1,3 @@
 [
-  "scripts/test05_app_login.py::TestAppLogin::()::test_app_login"
+  "scripts/test06_app_article.py::TestAppArticle::()::test_app_article"
 ]
